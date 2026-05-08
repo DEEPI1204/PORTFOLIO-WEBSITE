@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brindha Portfolio</title>
+</head>
+
+<body bgcolor="#0f172a" text="white">
+
+    <center>
+        <h1>BRINDHA</h1>
+        <h2>B.Tech AIDS Student</h2>
+        <h3>Tagore Institute of Engineering and Technology</h3>
+        <hr width="80%">
+    </center>
+
+    <h2>About Me</h2>
+    <p>
+        I am Brindha, a B.Tech Artificial Intelligence and Data Science student.
+        I am interested in web development and programming.
+        I enjoy learning new technologies and building projects.
+    </p>
+
+    <hr>
+
+    <h2>Technical Skills</h2>
+
+    <ul>
+        <li>HTML</li>
+        <li>Python</li>
+    </ul>
+
+    <hr>
+
+    <h2>Projects</h2>
+
+    <h3>1. LearnBot AI</h3>
+    <p>
+        LearnBot AI is an AI-based learning assistant project
+        designed to improve the student learning experience.
+    </p>
+
+    <h3>2. Skill Checker Python</h3>
+    <p>
+        Skill Checker is a Python-based project used to
+        evaluate technical skills through assessments.
+    </p>
+
+    <hr>
+
+    <h2>Contact</h2>
+
+    <p>Email: yourmail@example.com</p>
+
+    <hr>
+
+    <center>
+        <p>© 2026 Brindha Portfolio</p>
+    </center>
+
+</body>
+</html>
